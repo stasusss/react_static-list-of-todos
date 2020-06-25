@@ -1,0 +1,2 @@
+.App{text-align:center}.todo-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));grid-gap:30px;list-style:none}.todo{display:flex;align-items:center;justify-content:center;flex-direction:column;font-weight:700;height:200px;border-radius:10%}.todo--true{background-color:green}.todo--false{background-color:red}
+/*# sourceMappingURL=main.984b645d.chunk.css.map */
